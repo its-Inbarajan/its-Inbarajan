@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Junior Frontend devloper**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
 
-- 👨‍💻 All of my projects are available at [https://its-inbarajan.github.io/Portfolio/](https://its-inbarajan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://inbarajan.netlify.app/](https://inbarajan.netlify.app/)
 
 - 😎 What'sApp Number [+91 638 111 4224](+91 638 111 4224)
 
