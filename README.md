@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inbarajan</h1>
 <h3 align="center">A passionate frontend developer from TN, India</h3>
 
-- 🔭 I’m currently working on **Junior Frontend devloper**
+- 🔭 I’m currently working on **MERN stack developer **
 
 - 🌱 I’m currently learning **React-Native**
 
@@ -11,9 +11,9 @@
 
 - 😎 What'sApp Number [+91 638 111 4224](+91 638 111 4224)
 
-- 💬 Ask me about **ReactJs ,angularJs**
+- 💬 Ask me about **ReactJS, Nextjs**
 
-- 📫 How to reach me **rajaninba6@gmail.com**
+- 📫 How to reach me **pinbarajan.official@gmail.com**
 
 - 📄 Know about my experiences [https://its-inbarajan.github.io/resume/](https://its-inbarajan.github.io/resume/)
 
