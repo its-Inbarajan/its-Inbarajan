@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inbarajan</h1>
 <h3 align="center">A passionate frontend developer from TN, India</h3>
 
-- 🔭 I’m currently working on **MERN stack developer **
+- 🔭 I’m currently working on **MERN stack developer**
 
 - 🌱 I’m currently learning **React-Native**
 
