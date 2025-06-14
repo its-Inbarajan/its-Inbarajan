@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
-- 👨‍💻 Find more about me [https://inbarajan.netlify.app](https://inbarajan.vercel.app/)
+- 👨‍💻 Find more about me [https://inbarajan.vercel.app](https://inbarajan.vercel.app/)
 
 - 😎 What'sApp Number [+91 638 111 4224](+91 638 111 4224)
 
