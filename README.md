@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
 
-- 👨‍💻 All of my projects are available at [https://inbarajan.netlify.app/](https://inbarajan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://inbarajan.netlify.app](https://inbarajan.vercel.app/)/]
 
 - 😎 What'sApp Number [+91 638 111 4224](+91 638 111 4224)
 
