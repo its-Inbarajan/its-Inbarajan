@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
 - 👨‍💻 Find more about me [https://inbarajan.vercel.app](https://inbarajan.vercel.app/)
 
-- 😎 What'sApp Number [Click](+91 638 111 4224)
+- 😎 What'sApp Number [Click](6381114224)
 
 - 💬 Ask me about **ReactJS, Nextjs**
 
