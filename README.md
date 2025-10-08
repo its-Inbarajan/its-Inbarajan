@@ -1,4 +1,5 @@
-### Hi there <a href="https://www.[inbarajan.vercel.app](https://inbarajan.vercel.app/)/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a><h3 align="center">A passionate Full stack developer (MERN stack) located in Bangalore, India</h3>
+### Hi there <a href="https://www.[inbarajan.vercel.app](https://inbarajan.vercel.app/)/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h3 align="center">A passionate Full stack developer (MERN stack) located in Bangalore, India</h3>
 
 - 🔭 I’m currently working on **MERN stack developer**
 
