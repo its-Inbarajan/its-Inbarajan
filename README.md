@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.inbarajan.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="center">A passionate Full stack developer (MERN stack) located in Bangalore, India</h3>
 
 - 🔭 I’m currently working on **MERN stack developer**
