@@ -8,6 +8,10 @@
 I'm Inba Rajan
 Full Stack Developer with `2.6 years` of experience specializing in **MERN stack development**. Skilled in building scalable web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **TypeScript**. Experienced in working on frontend architecture, and UI component design using modern frameworks like **Next.js** and **shadcn-ui**. Passionate about delivering clean, performant code with a strong focus on user experience and responsive design.</b></p>
 
+<h1>Personal Project</h1>
+
+<p>Employee Portal : https://employee-portal-eta.vercel.app/</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
