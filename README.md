@@ -39,6 +39,8 @@ Full Stack Developer with `2.6 years` of experience specializing in **MERN stack
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-43853d?style=flat-square&logo=Socket.io&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Zod" src="https://img.shields.io/badge/zod-1a73e8?style=flat-square&logo=zod&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/prisma-1a73e8?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
