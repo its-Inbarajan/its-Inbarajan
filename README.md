@@ -41,12 +41,15 @@ Full Stack Developer with `2.6 years` of experience specializing in **MERN stack
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Zod" src="https://img.shields.io/badge/zod-1a73e8?style=flat-square&logo=zod&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/prisma-1a73e8?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/vitest-1a73e8?style=flat-square&logo=vitest&logoColor=yellow" />
+  <img alt="Gsap" src="https://img.shields.io/badge/-gsap-43853d?style=flat-square&logo=gsap&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/its-Inbarajan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/itsinbarajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/itsinbarajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a> 
+  <a href="https://inbarajan.vercel.app/" target="_blank"><img alt="Portflio" src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a> 
   <!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>->
   
 </p>
