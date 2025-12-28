@@ -43,6 +43,7 @@ Full Stack Developer with `2.6 years` of experience specializing in **MERN stack
   <img alt="Prisma" src="https://img.shields.io/badge/prisma-1a73e8?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/vitest-1a73e8?style=flat-square&logo=vitest&logoColor=yellow" />
   <img alt="Gsap" src="https://img.shields.io/badge/-gsap-43853d?style=flat-square&logo=gsap&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-43853d?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
