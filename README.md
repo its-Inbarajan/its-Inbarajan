@@ -11,7 +11,7 @@ Full Stack Developer with `2.6 years` of experience specializing in **MERN stack
 Can't able to view? kindly do hard refresh once. <br/>
 📄 [Résumé](https://its-inbarajan.github.io/resume/)
 
-<h1>Personal Project</h1>
+<h1>Own Project</h1>
 
 <p>Employee Portal : https://employee-portal-eta.vercel.app/</p>
 
