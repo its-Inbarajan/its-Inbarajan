@@ -46,6 +46,7 @@ Can't able to view? kindly do hard refresh once. <br/>
   <img alt="Gsap" src="https://img.shields.io/badge/-gsap-43853d?style=flat-square&logo=gsap&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-43853d?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-supabase-43853d?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
