@@ -13,7 +13,7 @@ Can't able to view? kindly do hard refresh once. <br/>
 
 <h1>Check What I'm building</h1>
 
-<p>Ecomcn : [https://ecomcn.vercel.app/](https://ecomcn.vercel.app/)</p>
+<p>Ecomcn : https://ecomcn.vercel.app/</p>
 <p>Employee Portal : https://employee-portal-eta.vercel.app/</p>
 
 <h3>Things I code with</h3>
